@@ -6,4 +6,4 @@ Generate your text to speech in indonesia language
 
 Here we have project screenshot :
 
-![alt text](https://github.com/AurellOrell/Speech/blob/1de3b3ad571eeaf4c512337fd0efd631c8b2854d/Screenshot.png?raw=true)
+![alt text](https://github.com/AurellOrell/Alien/blob/6902e84f055c5fab3d3c8267e0a5bc81c7ccec63/Speech/Screenshot.png)
