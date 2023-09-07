@@ -1,3 +1,3 @@
 # My Project
 
-HTML, Css, And JavaScript
+HTML, CSS, And JavaScript
